@@ -1,0 +1,11 @@
+{
+  "name": "marker-clusterer-dschuli",
+  "version": "0.1.0",
+  "description": "Marker-Clusterer-Plus enhanced by @Dschuli",
+  "main": "markerClusterer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dschuli",
+  "license": "ISC"
+}
